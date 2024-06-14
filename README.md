@@ -2,7 +2,7 @@ This is موسوعة الشعر العربية في العصر الجاهلية 
 
 Following are the requirements of the project:
 
-Books
+## Books
 1. The user should be able to create a new book entry in the database
 a. Information needed: book title, author, year the author passed away
 2. The user should be able to view the list of all books available in the database, edit the
@@ -16,7 +16,7 @@ poem title, add new verses or edit/delete existing verses
 7. Deleting a poem: It will delete all the verses and the associated meta data from the
 database.
 
-Verses
+## Verses
 8. The user should be able specify/unspecify roots used in a verse
 9. The user should be able to tokenize a verse based on space character
 10. The system should be able to suggest the root used in a verse using a stemmer
@@ -24,7 +24,7 @@ a. Stopwords should be filtered beforehand
 11. The system should be able to batch-assign roots to verses using a stemmer.
 a. During the same process new roots should be added to the database
 
-Roots
+## Roots
 12. The user should be able add roots
 13. The user should be able see all roots
 a. Along with the number of verses in which this root is used
