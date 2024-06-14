@@ -1,0 +1,22 @@
+19:35:38.509 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+19:35:38.517 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+19:35:38.518 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+19:36:03.561 [AWT-EventQueue-0] INFO  dataLayer.BookDAL - Number of books retrieved: 1
+09:02:05.804 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+09:02:05.812 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+09:02:05.813 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+09:04:40.996 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+09:04:40.997 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+09:04:40.997 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+09:09:17.953 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+09:09:17.957 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+09:09:17.958 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+14:52:41.531 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+14:52:41.540 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+14:52:41.541 [AWT-EventQueue-0] DEBUG dataLayer.PoemFileDAL - PoemFileDAL instance created.
+14:56:58.536 [AWT-EventQueue-0] INFO  dataLayer.BookDAL - Number of books retrieved: 1
+14:57:28.361 [AWT-EventQueue-0] INFO  dataLayer.PoemFileDAL - Token inserted into the database
+14:57:28.429 [AWT-EventQueue-0] INFO  dataLayer.PoemFileDAL - Token inserted into the database
+14:57:28.529 [AWT-EventQueue-0] INFO  dataLayer.PoemFileDAL - Token inserted into the database
+14:57:28.573 [AWT-EventQueue-0] INFO  dataLayer.PoemFileDAL - Token inserted into the database
+14:57:28.629 [AWT-EventQueue-0] INFO  dataLayer.PoemFileDAL - Token inserted into the database

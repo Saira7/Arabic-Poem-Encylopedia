@@ -1,0 +1,10 @@
+transferObject/RootTO.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+transferObject/RootTO.java:3:	CommentRequired:	CommentRequired: Class comments are required
+transferObject/RootTO.java:5:	CommentRequired:	CommentRequired: Field comments are required
+transferObject/RootTO.java:6:	CommentRequired:	CommentRequired: Field comments are required
+transferObject/RootTO.java:8:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+transferObject/RootTO.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rootName' is not assigned and could be declared final
+transferObject/RootTO.java:8:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'versesCount' is not assigned and could be declared final
+transferObject/RootTO.java:18:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'rootName' is not assigned and could be declared final
+transferObject/RootTO.java:21:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+transferObject/RootTO.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'verseCount' is not assigned and could be declared final

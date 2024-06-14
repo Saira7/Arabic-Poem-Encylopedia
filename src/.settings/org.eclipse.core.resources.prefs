@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//Main/Main.java=UTF-8
+encoding//presentationLayer/RootUI.java=UTF-8
+encoding//tests/BuisnessLayer/RootBLLTest.java=UTF-8
+encoding//tests/dataLayer/RootDALStub.java=UTF-8

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry excluding="tests/|resources/" kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/project-se3001-january-Jar-Files/project-se3001-january-Jar-Files/ADAT-Stemmer.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/project-se3001-january-Jar-Files/project-se3001-january-Jar-Files/jcalendar-1.4.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/project-se3001-january-Jar-Files/project-se3001-january-Jar-Files/jgoodies-common-1.2.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/project-se3001-january-Jar-Files/project-se3001-january-Jar-Files/jgoodies-looks-2.4.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/project-se3001-january-Jar-Files/project-se3001-january-Jar-Files/junit-4.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/project-se3001-january-Jar-Files/project-se3001-january-Jar-Files/lucene-arabic-analyzer-2.1.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/project-se3001-january-Jar-Files/project-se3001-january-Jar-Files/mysql-connector-j-8.1.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/project-se3001-january-Jar-Files/project-se3001-january-Jar-Files/Pos_tagger.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/apache-log4j-2.20.0-bin/apache-log4j-2.20.0-bin/log4j-api-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/apache-log4j-2.20.0-bin/apache-log4j-2.20.0-bin/log4j-api-2.20.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/apache-log4j-2.20.0-bin/apache-log4j-2.20.0-bin/log4j-api-test-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/apache-log4j-2.20.0-bin/apache-log4j-2.20.0-bin/log4j-api-test-2.20.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/apache-log4j-2.20.0-bin/apache-log4j-2.20.0-bin/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/apache-log4j-2.20.0-bin/apache-log4j-2.20.0-bin/log4j-core-2.20.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/apache-log4j-2.20.0-bin/apache-log4j-2.20.0-bin/log4j-core-test-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saira Alvi/Downloads/apache-log4j-2.20.0-bin/apache-log4j-2.20.0-bin/log4j-core-test-2.20.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
